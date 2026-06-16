@@ -52,11 +52,25 @@ npx skills add https://github.com/d2ms2/awwwards-agent-skills --skill "awwwards-
 
 ## 🛠️ Available Skills
 
+### 🏆 Interactive Engineering Skills (Our Advanced Pack)
 | Skill Folder | Install Name | Description | Key Technologies |
 |---|---|---|---|
 | **awwwards-creative-frontend** | `awwwards-creative-frontend` | Layout typography, asymmetric grids, fluid font-scaling, GSAP, and smooth scroll integration. | HTML5, Tailwind v4, GSAP, Lenis |
 | **awwwards-webgl-shaders** | `awwwards-webgl-shaders` | Setting up interactive WebGL scenes, compiling custom GLSL vertex/fragment shaders, mapping DOM items to textures, and renderer loop optimization. | Three.js, WebGL, GLSL, Canvas |
 | **awwwards-micro-interactions** | `awwwards-micro-interactions` | Custom cursors with LERP delay, magnetic buttons, tactile hover states, and memory-leak-safe Barba.js transitions. | Vanilla JS, LERP, Barba.js |
+
+### 🎨 Visual & Strategic Design Skills (Original Taste-Skill Pack)
+| Skill Folder | Install Name | Description | Purpose |
+|---|---|---|---|
+| **taste-skill** | `design-taste-frontend` | Core v2 design rules for layouts, clean grids, and anti-default visual hygiene. | Implementation |
+| **taste-skill-v1** | `design-taste-frontend-v1` | Legacy v1 design guidelines for SaaS interfaces. | Implementation |
+| **minimalist-skill** | `design-taste-minimalist` | Rules for creating clean, restrained, high-end minimalist interfaces. | Implementation |
+| **brutalist-skill** | `design-taste-brutalist` | Rules for generating industrial, raw, monospace brutalist UIs. | Implementation |
+| **brandkit** | `brandkit` | Prompts for generating premium brand guidelines decks, logos, and identity boards. | Image Generation |
+| **imagegen-frontend-web** | `design-board-builder` | Prompts for generating desktop landing page mockups and layout inspirations. | Image Generation |
+| **imagegen-frontend-mobile** | `design-board-builder-mobile` | Prompts for generating mobile app screen mockups and interface layout concepts. | Image Generation |
+| **image-to-code-skill** | `image-to-code` | Deep guidelines on how to accurately translate visual mockups/images into pure HTML/Tailwind CSS. | Implementation |
+
 
 ---
 
