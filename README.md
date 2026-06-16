@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://repository-images.githubusercontent.com/1162099055/0a968964-fdca-4781-853b-84afc2bc2d31" alt="Awwwards Agent Skills" width="100%" />
-</p>
-
 # Awwwards Agent Skills 🏆
 
 <p align="center">
@@ -9,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/stargazers"><img src="https://img.shields.io/github/stars/Leonxlnx/taste-skill?style=for-the-badge&logo=github&labelColor=1e293b&color=fbbf24" alt="GitHub stars"/></a>
+  <a href="https://github.com/d2ms2/awwwards-agent-skills/stargazers"><img src="https://img.shields.io/github/stars/d2ms2/awwwards-agent-skills?style=for-the-badge&logo=github&labelColor=1e293b&color=fbbf24" alt="GitHub stars"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-fbbf24?style=for-the-badge&labelColor=1e293b" alt="MIT License"/></a>
   <a href="#installing"><img src="https://img.shields.io/badge/Tools-Codex%20%C2%B7%20Cursor%20%C2%B7%20Claude%20%C2%B7%20Antigravity-111827?style=for-the-badge&labelColor=1e293b" alt="Supported agents"/></a>
 </p>
