@@ -35,19 +35,19 @@ You can install these skills directly into your workspace using the [`npx skills
 
 ### 1. Install all skills in the bundle:
 ```bash
-npx skills add https://github.com/YOUR_USERNAME/awwwards-agent-skills
+npx skills add https://github.com/d2ms2/awwwards-agent-skills
 ```
 
 ### 2. Install a specific skill:
 ```bash
 # Core Creative Frontend guidelines (Typography, Grid, GSAP, Lenis)
-npx skills add https://github.com/YOUR_USERNAME/awwwards-agent-skills --skill "awwwards-creative-frontend"
+npx skills add https://github.com/d2ms2/awwwards-agent-skills --skill "awwwards-creative-frontend"
 
 # Advanced WebGL & Shaders (Three.js, GLSL, Canvas mapping)
-npx skills add https://github.com/YOUR_USERNAME/awwwards-agent-skills --skill "awwwards-webgl-shaders"
+npx skills add https://github.com/d2ms2/awwwards-agent-skills --skill "awwwards-webgl-shaders"
 
 # Micro-interactions & Page Transitions (Cursors, LERP physics, Barba.js)
-npx skills add https://github.com/YOUR_USERNAME/awwwards-agent-skills --skill "awwwards-micro-interactions"
+npx skills add https://github.com/d2ms2/awwwards-agent-skills --skill "awwwards-micro-interactions"
 ```
 
 *Note: You can also copy the `SKILL.md` files directly and paste them into your LLM chats or add them to your project's `.cursorrules`.*
